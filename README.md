@@ -11,6 +11,8 @@ Upon analysis of the data we can conclude the following
 
 As you would assume, and urban setting accounted for 68% of the total usage followed by 26% in the Suburbs
 - Total drivers per city type
+
+
 - total fares per city type
 - average fare per city type
 - average fare per driver for each city type
