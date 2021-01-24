@@ -4,9 +4,13 @@ Detailed breakdown of Pyber usage between Rural, Urban, and Suburban usage
 
 ## Results
 
--Link to code 
+- Link to code 
 
 (https://github.com/JasonWilliams88/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+
+- 4 month snapshot of overall fares per city type
+
+[]()
 
 
 ## Analysis
@@ -20,5 +24,5 @@ As you would assume, and urban setting accounted for 68% of the total usage foll
 - total fares per city type
 - average fare per city type
 - average fare per driver for each city type
-- 4 month snapshot of fares per city type
+- 4 month snapshot of overall fares per city type
 
