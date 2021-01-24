@@ -8,7 +8,7 @@ Detailed breakdown of Pyber usage between Rural, Urban, and Suburban usage
 
 [PyBer_Challenge.ipynb](https://github.com/JasonWilliams88/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
--Key breakdown of data
+- Key breakdown of data
 
 ![Summary.PNG](https://github.com/JasonWilliams88/PyBer_Analysis/blob/main/Summary.PNG)
 
