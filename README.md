@@ -42,5 +42,10 @@ The differences here seem the most drastic. It would fares per driver increase 7
 
 - 4 month snapshot of overall fares per city type
 
+When we track total fares over time we get a very stagnant picture. Little growth seems to be occuring in this 4 month snapshot. 
+
+
 ## Discussion
 
+### Recommendations
+- 
