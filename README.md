@@ -48,4 +48,4 @@ When we track total fares over time we get a very stagnant picture. Little growt
 ## Discussion
 
 ### Recommendations
-- 
+- The first order of buisness would be to increase the average price per driver. We can assume the diference steems from either inactive drivers bringing the average down and/or the average distance driven is shorter combined with the significantly higher amount of drivers compared to the rides given n\
