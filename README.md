@@ -6,11 +6,11 @@ Detailed breakdown of Pyber usage between Rural, Urban, and Suburban usage
 
 - Link to code 
 
-(https://github.com/JasonWilliams88/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+[PyBer_Challenge.ipynb](https://github.com/JasonWilliams88/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
 - 4 month snapshot of overall fares per city type
 
-[PyBer_fare_summary.png.png](https://github.com/JasonWilliams88/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png.png)
+![PyBer_fare_summary.png.png](https://github.com/JasonWilliams88/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png.png)
 
 
 ## Analysis
