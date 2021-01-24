@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# __PyBer_Analysis__
 
 Detailed breakdown of Pyber usage between Rural, Urban, and Suburban usage
 
@@ -28,5 +28,5 @@ from the analysis we can see that Urban drivers are over represented. there were
 - average fare per driver for each city type
 - 4 month snapshot of overall fares per city type
 
-## _Discussion_
+## Discussion
 
