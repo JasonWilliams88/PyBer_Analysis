@@ -34,9 +34,12 @@ As expected Urban had the highest total fare followed by Suburban and finally Ru
 
 - average fare per city type
 
-We can see that 
+It seems as Density increases less is made per ride
 
 - average fare per driver for each city type
+
+The differences here seem the most drastic. It would fares per driver increase 70% in a Rural setting as opposed to a Urban one
+
 - 4 month snapshot of overall fares per city type
 
 ## Discussion
