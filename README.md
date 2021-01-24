@@ -23,7 +23,7 @@ __Upon analysis of the data we can conclude the following__
 
 - Rides per city type
 
-As you would assume, and urban setting accounted for 68% of the total usage followed by 26% in the Suburbs
+As you would assume, and urban setting accounted for 68% of the total usage followed by 26% in the Suburbs.
 
 - Total drivers per city type
 
@@ -35,11 +35,11 @@ As expected Urban had the highest total fare followed by Suburban and finally Ru
 
 - average fare per city type
 
-It seems as Density increases less is made per ride
+It seems as density increases, less is made per ride.
 
 - average fare per driver for each city type
 
-The differences here seem the most drastic. It would fares per driver increase 70% in a Rural setting as opposed to a Urban one
+The differences here seem the most drastic. It would seem fares per driver increase 70% in a Rural setting as opposed to an Urban one.
 
 - 4 month snapshot of overall fares per city type
 
