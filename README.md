@@ -19,7 +19,8 @@ Detailed breakdown of Pyber usage between Rural, Urban, and Suburban usage
 
 
 ## Analysis
-Upon analysis of the data we can conclude the following
+__Upon analysis of the data we can conclude the following__
+
 - Rides per city type
 
 As you would assume, and urban setting accounted for 68% of the total usage followed by 26% in the Suburbs
