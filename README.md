@@ -24,7 +24,13 @@ As you would assume, and urban setting accounted for 68% of the total usage foll
 from the analysis we can see that Urban drivers are over represented. there were more drivers than total rides.
 
 - total fares per city type
+
+As expected Urban had the highest total fare followed by Suburban and finally Rural.
+
 - average fare per city type
+
+We can see that 
+
 - average fare per driver for each city type
 - 4 month snapshot of overall fares per city type
 
