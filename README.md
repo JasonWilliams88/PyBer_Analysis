@@ -48,4 +48,7 @@ When we track total fares over time we get a very stagnant picture. Little growt
 ## Discussion
 
 ### Recommendations
-- The first order of buisness would be to increase the average price per driver. We can assume the diference steems from either inactive drivers bringing the average down and/or the average distance driven is shorter combined with the significantly higher amount of drivers compared to the rides given n\
+- The first order of business would be to increase the average price per driver. We can assume the difference stems from either inactive drivers bringing the average down and/or the average distance driven is shorter combined with the significantly higher amount of drivers compared to the rides given. By implementing a surge price during certain times or areas we can increase the revenue for the drivers.
+- The lack of growth needs to be addressed also. An increase in marketing would help ridership greatly. You can point to the increase in driver pay as a reason to pick PyBer over your competitors.
+- The Suburban and Rural city types seems to be neglected the most when compared to the amount of money it brings in. Give drivers an incentive to venture farther out from the city limits to cover under capitalized areas.
+
